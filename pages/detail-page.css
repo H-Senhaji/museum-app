@@ -1,0 +1,23 @@
+main {
+    background: white;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 2rem 0;
+}
+main {
+    display: block;
+}
+
+body {
+    margin: 0;
+    padding: 2rem 0;
+    width: 100%;
+    background: rgb(223, 176, 220);
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+
+html {
+    color: -internal-root-color;
+}
